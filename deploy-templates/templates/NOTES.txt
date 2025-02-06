@@ -1,0 +1,1 @@
+1. Application sample-java-app has been successfully deployed!!
